@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/capa.png" alt="Capa do projeto" width="800">
+  <img src="capa.png" alt="Capa do projeto" width="800">
 </p>
 <h1 align="left">Sobre este projeto</h1>
 
