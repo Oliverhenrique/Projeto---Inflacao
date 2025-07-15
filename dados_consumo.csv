@@ -1,0 +1,101 @@
+valor_ipca,codigo_regiao,regiao,codigo_grupo_consumo,grupo_consumo,data
+3.21,4701,RM da Grande Vitória (ES),7169,Índice geral,2025-06-01
+4.89,4701,RM da Grande Vitória (ES),7170,Alimentação e bebidas,2025-06-01
+3.67,4701,RM da Grande Vitória (ES),7445,Habitação,2025-06-01
+2.28,4701,RM da Grande Vitória (ES),7486,Artigos de residência,2025-06-01
+3.07,4701,RM da Grande Vitória (ES),7558,Vestuário,2025-06-01
+1.57,4701,RM da Grande Vitória (ES),7625,Transportes,2025-06-01
+3.35,4701,RM da Grande Vitória (ES),7660,Saúde e cuidados pessoais,2025-06-01
+2.72,4701,RM da Grande Vitória (ES),7712,Despesas pessoais,2025-06-01
+5.82,4701,RM da Grande Vitória (ES),7766,Educação,2025-06-01
+2.08,4701,RM da Grande Vitória (ES),7786,Comunicação,2025-06-01
+3.39,601,RM de Belém (PA),7169,Índice geral,2025-06-01
+4.59,601,RM de Belém (PA),7170,Alimentação e bebidas,2025-06-01
+5.15,601,RM de Belém (PA),7445,Habitação,2025-06-01
+0.62,601,RM de Belém (PA),7486,Artigos de residência,2025-06-01
+1.57,601,RM de Belém (PA),7558,Vestuário,2025-06-01
+1.17,601,RM de Belém (PA),7625,Transportes,2025-06-01
+4.42,601,RM de Belém (PA),7660,Saúde e cuidados pessoais,2025-06-01
+2.15,601,RM de Belém (PA),7712,Despesas pessoais,2025-06-01
+5.64,601,RM de Belém (PA),7766,Educação,2025-06-01
+1.38,601,RM de Belém (PA),7786,Comunicação,2025-06-01
+3.38,4501,RM de Belo Horizonte (MG),7169,Índice geral,2025-06-01
+3.14,4501,RM de Belo Horizonte (MG),7170,Alimentação e bebidas,2025-06-01
+6.34,4501,RM de Belo Horizonte (MG),7445,Habitação,2025-06-01
+1.82,4501,RM de Belo Horizonte (MG),7486,Artigos de residência,2025-06-01
+3.11,4501,RM de Belo Horizonte (MG),7558,Vestuário,2025-06-01
+1.98,4501,RM de Belo Horizonte (MG),7625,Transportes,2025-06-01
+3.54,4501,RM de Belo Horizonte (MG),7660,Saúde e cuidados pessoais,2025-06-01
+3.39,4501,RM de Belo Horizonte (MG),7712,Despesas pessoais,2025-06-01
+4.71,4501,RM de Belo Horizonte (MG),7766,Educação,2025-06-01
+1.77,4501,RM de Belo Horizonte (MG),7786,Comunicação,2025-06-01
+3.07,5501,RM de Curitiba (PR),7169,Índice geral,2025-06-01
+4.14,5501,RM de Curitiba (PR),7170,Alimentação e bebidas,2025-06-01
+2.79,5501,RM de Curitiba (PR),7445,Habitação,2025-06-01
+2.24,5501,RM de Curitiba (PR),7486,Artigos de residência,2025-06-01
+4.51,5501,RM de Curitiba (PR),7558,Vestuário,2025-06-01
+2.29,5501,RM de Curitiba (PR),7625,Transportes,2025-06-01
+3.03,5501,RM de Curitiba (PR),7660,Saúde e cuidados pessoais,2025-06-01
+1.75,5501,RM de Curitiba (PR),7712,Despesas pessoais,2025-06-01
+5.93,5501,RM de Curitiba (PR),7766,Educação,2025-06-01
+1.61,5501,RM de Curitiba (PR),7786,Comunicação,2025-06-01
+3.05,1401,RM de Fortaleza (CE),7169,Índice geral,2025-06-01
+4.12,1401,RM de Fortaleza (CE),7170,Alimentação e bebidas,2025-06-01
+2.99,1401,RM de Fortaleza (CE),7445,Habitação,2025-06-01
+0.98,1401,RM de Fortaleza (CE),7486,Artigos de residência,2025-06-01
+-0.17,1401,RM de Fortaleza (CE),7558,Vestuário,2025-06-01
+1.61,1401,RM de Fortaleza (CE),7625,Transportes,2025-06-01
+4.59,1401,RM de Fortaleza (CE),7660,Saúde e cuidados pessoais,2025-06-01
+3.04,1401,RM de Fortaleza (CE),7712,Despesas pessoais,2025-06-01
+5.29,1401,RM de Fortaleza (CE),7766,Educação,2025-06-01
+0.36,1401,RM de Fortaleza (CE),7786,Comunicação,2025-06-01
+3.17,7401,RM de Porto Alegre (RS),7169,Índice geral,2025-06-01
+4.94,7401,RM de Porto Alegre (RS),7170,Alimentação e bebidas,2025-06-01
+5.59,7401,RM de Porto Alegre (RS),7445,Habitação,2025-06-01
+1.04,7401,RM de Porto Alegre (RS),7486,Artigos de residência,2025-06-01
+2.44,7401,RM de Porto Alegre (RS),7558,Vestuário,2025-06-01
+0.2,7401,RM de Porto Alegre (RS),7625,Transportes,2025-06-01
+3.99,7401,RM de Porto Alegre (RS),7660,Saúde e cuidados pessoais,2025-06-01
+2.79,7401,RM de Porto Alegre (RS),7712,Despesas pessoais,2025-06-01
+4.93,7401,RM de Porto Alegre (RS),7766,Educação,2025-06-01
+0.96,7401,RM de Porto Alegre (RS),7786,Comunicação,2025-06-01
+3.01,3001,RM de Recife (PE),7169,Índice geral,2025-06-01
+3.28,3001,RM de Recife (PE),7170,Alimentação e bebidas,2025-06-01
+4.33,3001,RM de Recife (PE),7445,Habitação,2025-06-01
+-0.47,3001,RM de Recife (PE),7486,Artigos de residência,2025-06-01
+0.87,3001,RM de Recife (PE),7558,Vestuário,2025-06-01
+4.17,3001,RM de Recife (PE),7625,Transportes,2025-06-01
+2.19,3001,RM de Recife (PE),7660,Saúde e cuidados pessoais,2025-06-01
+1.74,3001,RM de Recife (PE),7712,Despesas pessoais,2025-06-01
+5.15,3001,RM de Recife (PE),7766,Educação,2025-06-01
+0.58,3001,RM de Recife (PE),7786,Comunicação,2025-06-01
+3.0,4201,RM de Salvador (BA),7169,Índice geral,2025-06-01
+4.81,4201,RM de Salvador (BA),7170,Alimentação e bebidas,2025-06-01
+3.34,4201,RM de Salvador (BA),7445,Habitação,2025-06-01
+-0.46,4201,RM de Salvador (BA),7486,Artigos de residência,2025-06-01
+1.5,4201,RM de Salvador (BA),7558,Vestuário,2025-06-01
+1.08,4201,RM de Salvador (BA),7625,Transportes,2025-06-01
+3.32,4201,RM de Salvador (BA),7660,Saúde e cuidados pessoais,2025-06-01
+2.86,4201,RM de Salvador (BA),7712,Despesas pessoais,2025-06-01
+5.16,4201,RM de Salvador (BA),7766,Educação,2025-06-01
+1.75,4201,RM de Salvador (BA),7786,Comunicação,2025-06-01
+3.0,4901,RM de São Paulo (SP),7169,Índice geral,2025-06-01
+3.77,4901,RM de São Paulo (SP),7170,Alimentação e bebidas,2025-06-01
+3.25,4901,RM de São Paulo (SP),7445,Habitação,2025-06-01
+0.44,4901,RM de São Paulo (SP),7486,Artigos de residência,2025-06-01
+2.84,4901,RM de São Paulo (SP),7558,Vestuário,2025-06-01
+2.19,4901,RM de São Paulo (SP),7625,Transportes,2025-06-01
+3.44,4901,RM de São Paulo (SP),7660,Saúde e cuidados pessoais,2025-06-01
+2.48,4901,RM de São Paulo (SP),7712,Despesas pessoais,2025-06-01
+5.21,4901,RM de São Paulo (SP),7766,Educação,2025-06-01
+1.01,4901,RM de São Paulo (SP),7786,Comunicação,2025-06-01
+2.46,4801,RM do Rio de Janeiro (RJ),7169,Índice geral,2025-06-01
+2.71,4801,RM do Rio de Janeiro (RJ),7170,Alimentação e bebidas,2025-06-01
+2.58,4801,RM do Rio de Janeiro (RJ),7445,Habitação,2025-06-01
+0.52,4801,RM do Rio de Janeiro (RJ),7486,Artigos de residência,2025-06-01
+3.16,4801,RM do Rio de Janeiro (RJ),7558,Vestuário,2025-06-01
+1.47,4801,RM do Rio de Janeiro (RJ),7625,Transportes,2025-06-01
+3.43,4801,RM do Rio de Janeiro (RJ),7660,Saúde e cuidados pessoais,2025-06-01
+2.22,4801,RM do Rio de Janeiro (RJ),7712,Despesas pessoais,2025-06-01
+5.38,4801,RM do Rio de Janeiro (RJ),7766,Educação,2025-06-01
+0.45,4801,RM do Rio de Janeiro (RJ),7786,Comunicação,2025-06-01

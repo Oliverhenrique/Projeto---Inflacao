@@ -1,0 +1,541 @@
+regiao,faixa_renda,grupo_consumo,inflacao_ponderada
+RM da Grande Vitória (ES),Renda alta,Alimentação e bebidas,0.60147
+RM da Grande Vitória (ES),Renda alta,Artigos de residência,0.06612
+RM da Grande Vitória (ES),Renda alta,Comunicação,0.08527999999999998
+RM da Grande Vitória (ES),Renda alta,Despesas pessoais,0.51136
+RM da Grande Vitória (ES),Renda alta,Educação,0.59364
+RM da Grande Vitória (ES),Renda alta,Habitação,0.40003
+RM da Grande Vitória (ES),Renda alta,Saúde e cuidados pessoais,0.43215000000000003
+RM da Grande Vitória (ES),Renda alta,Transportes,0.3768
+RM da Grande Vitória (ES),Renda alta,Vestuário,0.11972999999999999
+RM da Grande Vitória (ES),Renda baixa,Alimentação e bebidas,1.1442599999999998
+RM da Grande Vitória (ES),Renda baixa,Artigos de residência,0.09575999999999998
+RM da Grande Vitória (ES),Renda baixa,Comunicação,0.12480000000000001
+RM da Grande Vitória (ES),Renda baixa,Despesas pessoais,0.21760000000000002
+RM da Grande Vitória (ES),Renda baixa,Educação,0.22116
+RM da Grande Vitória (ES),Renda baixa,Habitação,0.6899599999999999
+RM da Grande Vitória (ES),Renda baixa,Saúde e cuidados pessoais,0.46230000000000004
+RM da Grande Vitória (ES),Renda baixa,Transportes,0.2669
+RM da Grande Vitória (ES),Renda baixa,Vestuário,0.15043
+RM da Grande Vitória (ES),Renda muito baixa,Alimentação e bebidas,1.26162
+RM da Grande Vitória (ES),Renda muito baixa,Artigos de residência,0.11627999999999998
+RM da Grande Vitória (ES),Renda muito baixa,Comunicação,0.12272000000000002
+RM da Grande Vitória (ES),Renda muito baixa,Despesas pessoais,0.1904
+RM da Grande Vitória (ES),Renda muito baixa,Educação,0.23861999999999997
+RM da Grande Vitória (ES),Renda muito baixa,Habitação,0.7450100000000001
+RM da Grande Vitória (ES),Renda muito baixa,Saúde e cuidados pessoais,0.45225000000000004
+RM da Grande Vitória (ES),Renda muito baixa,Transportes,0.20567
+RM da Grande Vitória (ES),Renda muito baixa,Vestuário,0.15657
+RM da Grande Vitória (ES),Renda média,Alimentação e bebidas,0.8948699999999999
+RM da Grande Vitória (ES),Renda média,Artigos de residência,0.07523999999999999
+RM da Grande Vitória (ES),Renda média,Comunicação,0.12272000000000002
+RM da Grande Vitória (ES),Renda média,Despesas pessoais,0.26384
+RM da Grande Vitória (ES),Renda média,Educação,0.38994
+RM da Grande Vitória (ES),Renda média,Habitação,0.50646
+RM da Grande Vitória (ES),Renda média,Saúde e cuidados pessoais,0.46565000000000006
+RM da Grande Vitória (ES),Renda média,Transportes,0.37366
+RM da Grande Vitória (ES),Renda média,Vestuário,0.14121999999999998
+RM da Grande Vitória (ES),Renda média alta,Alimentação e bebidas,0.75795
+RM da Grande Vitória (ES),Renda média alta,Artigos de residência,0.07067999999999999
+RM da Grande Vitória (ES),Renda média alta,Comunicação,0.11856000000000001
+RM da Grande Vitória (ES),Renda média alta,Despesas pessoais,0.33183999999999997
+RM da Grande Vitória (ES),Renda média alta,Educação,0.40740000000000004
+RM da Grande Vitória (ES),Renda média alta,Habitação,0.50279
+RM da Grande Vitória (ES),Renda média alta,Saúde e cuidados pessoais,0.47235
+RM da Grande Vitória (ES),Renda média alta,Transportes,0.38622000000000006
+RM da Grande Vitória (ES),Renda média alta,Vestuário,0.12279999999999999
+RM da Grande Vitória (ES),Renda média baixa,Alimentação e bebidas,1.06602
+RM da Grande Vitória (ES),Renda média baixa,Artigos de residência,0.09119999999999999
+RM da Grande Vitória (ES),Renda média baixa,Comunicação,0.13936
+RM da Grande Vitória (ES),Renda média baixa,Despesas pessoais,0.21760000000000002
+RM da Grande Vitória (ES),Renda média baixa,Educação,0.26771999999999996
+RM da Grande Vitória (ES),Renda média baixa,Habitação,0.6128899999999999
+RM da Grande Vitória (ES),Renda média baixa,Saúde e cuidados pessoais,0.43550000000000005
+RM da Grande Vitória (ES),Renda média baixa,Transportes,0.31871000000000005
+RM da Grande Vitória (ES),Renda média baixa,Vestuário,0.1535
+RM de Belo Horizonte (MG),Renda alta,Alimentação e bebidas,0.38622000000000006
+RM de Belo Horizonte (MG),Renda alta,Artigos de residência,0.052779999999999994
+RM de Belo Horizonte (MG),Renda alta,Comunicação,0.07257
+RM de Belo Horizonte (MG),Renda alta,Despesas pessoais,0.6373200000000001
+RM de Belo Horizonte (MG),Renda alta,Educação,0.48041999999999996
+RM de Belo Horizonte (MG),Renda alta,Habitação,0.6910599999999999
+RM de Belo Horizonte (MG),Renda alta,Saúde e cuidados pessoais,0.45666000000000007
+RM de Belo Horizonte (MG),Renda alta,Transportes,0.47519999999999996
+RM de Belo Horizonte (MG),Renda alta,Vestuário,0.12129
+RM de Belo Horizonte (MG),Renda baixa,Alimentação e bebidas,0.73476
+RM de Belo Horizonte (MG),Renda baixa,Artigos de residência,0.07644000000000001
+RM de Belo Horizonte (MG),Renda baixa,Comunicação,0.10620000000000002
+RM de Belo Horizonte (MG),Renda baixa,Despesas pessoais,0.2712
+RM de Belo Horizonte (MG),Renda baixa,Educação,0.17898
+RM de Belo Horizonte (MG),Renda baixa,Habitação,1.19192
+RM de Belo Horizonte (MG),Renda baixa,Saúde e cuidados pessoais,0.48852000000000007
+RM de Belo Horizonte (MG),Renda baixa,Transportes,0.33659999999999995
+RM de Belo Horizonte (MG),Renda baixa,Vestuário,0.15239
+RM de Belo Horizonte (MG),Renda muito baixa,Alimentação e bebidas,0.81012
+RM de Belo Horizonte (MG),Renda muito baixa,Artigos de residência,0.09282
+RM de Belo Horizonte (MG),Renda muito baixa,Comunicação,0.10443000000000001
+RM de Belo Horizonte (MG),Renda muito baixa,Despesas pessoais,0.2373
+RM de Belo Horizonte (MG),Renda muito baixa,Educação,0.19311
+RM de Belo Horizonte (MG),Renda muito baixa,Habitação,1.28702
+RM de Belo Horizonte (MG),Renda muito baixa,Saúde e cuidados pessoais,0.4779
+RM de Belo Horizonte (MG),Renda muito baixa,Transportes,0.25938
+RM de Belo Horizonte (MG),Renda muito baixa,Vestuário,0.15861
+RM de Belo Horizonte (MG),Renda média,Alimentação e bebidas,0.57462
+RM de Belo Horizonte (MG),Renda média,Artigos de residência,0.06006
+RM de Belo Horizonte (MG),Renda média,Comunicação,0.10443000000000001
+RM de Belo Horizonte (MG),Renda média,Despesas pessoais,0.32882999999999996
+RM de Belo Horizonte (MG),Renda média,Educação,0.31557
+RM de Belo Horizonte (MG),Renda média,Habitação,0.87492
+RM de Belo Horizonte (MG),Renda média,Saúde e cuidados pessoais,0.49206000000000005
+RM de Belo Horizonte (MG),Renda média,Transportes,0.47124000000000005
+RM de Belo Horizonte (MG),Renda média,Vestuário,0.14306
+RM de Belo Horizonte (MG),Renda média alta,Alimentação e bebidas,0.4867
+RM de Belo Horizonte (MG),Renda média alta,Artigos de residência,0.056420000000000005
+RM de Belo Horizonte (MG),Renda média alta,Comunicação,0.10089000000000001
+RM de Belo Horizonte (MG),Renda média alta,Despesas pessoais,0.41357999999999995
+RM de Belo Horizonte (MG),Renda média alta,Educação,0.3297
+RM de Belo Horizonte (MG),Renda média alta,Habitação,0.8685799999999999
+RM de Belo Horizonte (MG),Renda média alta,Saúde e cuidados pessoais,0.49914000000000003
+RM de Belo Horizonte (MG),Renda média alta,Transportes,0.48708000000000007
+RM de Belo Horizonte (MG),Renda média alta,Vestuário,0.1244
+RM de Belo Horizonte (MG),Renda média baixa,Alimentação e bebidas,0.68452
+RM de Belo Horizonte (MG),Renda média baixa,Artigos de residência,0.0728
+RM de Belo Horizonte (MG),Renda média baixa,Comunicação,0.11859
+RM de Belo Horizonte (MG),Renda média baixa,Despesas pessoais,0.2712
+RM de Belo Horizonte (MG),Renda média baixa,Educação,0.21665999999999996
+RM de Belo Horizonte (MG),Renda média baixa,Habitação,1.05878
+RM de Belo Horizonte (MG),Renda média baixa,Saúde e cuidados pessoais,0.46020000000000005
+RM de Belo Horizonte (MG),Renda média baixa,Transportes,0.40194
+RM de Belo Horizonte (MG),Renda média baixa,Vestuário,0.1555
+RM de Belém (PA),Renda alta,Alimentação e bebidas,0.56457
+RM de Belém (PA),Renda alta,Artigos de residência,0.01798
+RM de Belém (PA),Renda alta,Comunicação,0.05657999999999999
+RM de Belém (PA),Renda alta,Despesas pessoais,0.4042
+RM de Belém (PA),Renda alta,Educação,0.5752799999999999
+RM de Belém (PA),Renda alta,Habitação,0.56135
+RM de Belém (PA),Renda alta,Saúde e cuidados pessoais,0.57018
+RM de Belém (PA),Renda alta,Transportes,0.2808
+RM de Belém (PA),Renda alta,Vestuário,0.06123
+RM de Belém (PA),Renda baixa,Alimentação e bebidas,1.07406
+RM de Belém (PA),Renda baixa,Artigos de residência,0.02604
+RM de Belém (PA),Renda baixa,Comunicação,0.0828
+RM de Belém (PA),Renda baixa,Despesas pessoais,0.172
+RM de Belém (PA),Renda baixa,Educação,0.21431999999999998
+RM de Belém (PA),Renda baixa,Habitação,0.9682000000000001
+RM de Belém (PA),Renda baixa,Saúde e cuidados pessoais,0.6099600000000001
+RM de Belém (PA),Renda baixa,Transportes,0.1989
+RM de Belém (PA),Renda baixa,Vestuário,0.07693
+RM de Belém (PA),Renda muito baixa,Alimentação e bebidas,1.18422
+RM de Belém (PA),Renda muito baixa,Artigos de residência,0.03162
+RM de Belém (PA),Renda muito baixa,Comunicação,0.08141999999999999
+RM de Belém (PA),Renda muito baixa,Despesas pessoais,0.1505
+RM de Belém (PA),Renda muito baixa,Educação,0.23123999999999995
+RM de Belém (PA),Renda muito baixa,Habitação,1.0454500000000002
+RM de Belém (PA),Renda muito baixa,Saúde e cuidados pessoais,0.5967
+RM de Belém (PA),Renda muito baixa,Transportes,0.15327
+RM de Belém (PA),Renda muito baixa,Vestuário,0.08007
+RM de Belém (PA),Renda média,Alimentação e bebidas,0.83997
+RM de Belém (PA),Renda média,Artigos de residência,0.02046
+RM de Belém (PA),Renda média,Comunicação,0.08141999999999999
+RM de Belém (PA),Renda média,Despesas pessoais,0.20854999999999996
+RM de Belém (PA),Renda média,Educação,0.37788
+RM de Belém (PA),Renda média,Habitação,0.7107000000000001
+RM de Belém (PA),Renda média,Saúde e cuidados pessoais,0.61438
+RM de Belém (PA),Renda média,Transportes,0.27846
+RM de Belém (PA),Renda média,Vestuário,0.07221999999999999
+RM de Belém (PA),Renda média alta,Alimentação e bebidas,0.7114499999999999
+RM de Belém (PA),Renda média alta,Artigos de residência,0.01922
+RM de Belém (PA),Renda média alta,Comunicação,0.07866
+RM de Belém (PA),Renda média alta,Despesas pessoais,0.2623
+RM de Belém (PA),Renda média alta,Educação,0.3948
+RM de Belém (PA),Renda média alta,Habitação,0.7055500000000001
+RM de Belém (PA),Renda média alta,Saúde e cuidados pessoais,0.62322
+RM de Belém (PA),Renda média alta,Transportes,0.28782
+RM de Belém (PA),Renda média alta,Vestuário,0.06280000000000001
+RM de Belém (PA),Renda média baixa,Alimentação e bebidas,1.00062
+RM de Belém (PA),Renda média baixa,Artigos de residência,0.0248
+RM de Belém (PA),Renda média baixa,Comunicação,0.09245999999999999
+RM de Belém (PA),Renda média baixa,Despesas pessoais,0.172
+RM de Belém (PA),Renda média baixa,Educação,0.25943999999999995
+RM de Belém (PA),Renda média baixa,Habitação,0.86005
+RM de Belém (PA),Renda média baixa,Saúde e cuidados pessoais,0.5746
+RM de Belém (PA),Renda média baixa,Transportes,0.23750999999999997
+RM de Belém (PA),Renda média baixa,Vestuário,0.0785
+RM de Curitiba (PR),Renda alta,Alimentação e bebidas,0.50922
+RM de Curitiba (PR),Renda alta,Artigos de residência,0.06496
+RM de Curitiba (PR),Renda alta,Comunicação,0.06601
+RM de Curitiba (PR),Renda alta,Despesas pessoais,0.32899999999999996
+RM de Curitiba (PR),Renda alta,Educação,0.60486
+RM de Curitiba (PR),Renda alta,Habitação,0.30411
+RM de Curitiba (PR),Renda alta,Saúde e cuidados pessoais,0.39086999999999994
+RM de Curitiba (PR),Renda alta,Transportes,0.5496
+RM de Curitiba (PR),Renda alta,Vestuário,0.17589
+RM de Curitiba (PR),Renda baixa,Alimentação e bebidas,0.96876
+RM de Curitiba (PR),Renda baixa,Artigos de residência,0.09408000000000001
+RM de Curitiba (PR),Renda baixa,Comunicação,0.0966
+RM de Curitiba (PR),Renda baixa,Despesas pessoais,0.14
+RM de Curitiba (PR),Renda baixa,Educação,0.22533999999999998
+RM de Curitiba (PR),Renda baixa,Habitação,0.5245200000000001
+RM de Curitiba (PR),Renda baixa,Saúde e cuidados pessoais,0.41814
+RM de Curitiba (PR),Renda baixa,Transportes,0.3893
+RM de Curitiba (PR),Renda baixa,Vestuário,0.22099
+RM de Curitiba (PR),Renda muito baixa,Alimentação e bebidas,1.06812
+RM de Curitiba (PR),Renda muito baixa,Artigos de residência,0.11424
+RM de Curitiba (PR),Renda muito baixa,Comunicação,0.09499
+RM de Curitiba (PR),Renda muito baixa,Despesas pessoais,0.1225
+RM de Curitiba (PR),Renda muito baixa,Educação,0.24312999999999996
+RM de Curitiba (PR),Renda muito baixa,Habitação,0.56637
+RM de Curitiba (PR),Renda muito baixa,Saúde e cuidados pessoais,0.4090499999999999
+RM de Curitiba (PR),Renda muito baixa,Transportes,0.29999
+RM de Curitiba (PR),Renda muito baixa,Vestuário,0.23000999999999996
+RM de Curitiba (PR),Renda média,Alimentação e bebidas,0.75762
+RM de Curitiba (PR),Renda média,Artigos de residência,0.07392
+RM de Curitiba (PR),Renda média,Comunicação,0.09499
+RM de Curitiba (PR),Renda média,Despesas pessoais,0.16974999999999998
+RM de Curitiba (PR),Renda média,Educação,0.39731
+RM de Curitiba (PR),Renda média,Habitação,0.38502000000000003
+RM de Curitiba (PR),Renda média,Saúde e cuidados pessoais,0.42117
+RM de Curitiba (PR),Renda média,Transportes,0.5450200000000001
+RM de Curitiba (PR),Renda média,Vestuário,0.20745999999999998
+RM de Curitiba (PR),Renda média alta,Alimentação e bebidas,0.6417
+RM de Curitiba (PR),Renda média alta,Artigos de residência,0.06944
+RM de Curitiba (PR),Renda média alta,Comunicação,0.09177000000000002
+RM de Curitiba (PR),Renda média alta,Despesas pessoais,0.21349999999999997
+RM de Curitiba (PR),Renda média alta,Educação,0.41509999999999997
+RM de Curitiba (PR),Renda média alta,Habitação,0.38223
+RM de Curitiba (PR),Renda média alta,Saúde e cuidados pessoais,0.42723
+RM de Curitiba (PR),Renda média alta,Transportes,0.5633400000000001
+RM de Curitiba (PR),Renda média alta,Vestuário,0.1804
+RM de Curitiba (PR),Renda média baixa,Alimentação e bebidas,0.90252
+RM de Curitiba (PR),Renda média baixa,Artigos de residência,0.08960000000000001
+RM de Curitiba (PR),Renda média baixa,Comunicação,0.10787000000000001
+RM de Curitiba (PR),Renda média baixa,Despesas pessoais,0.14
+RM de Curitiba (PR),Renda média baixa,Educação,0.27277999999999997
+RM de Curitiba (PR),Renda média baixa,Habitação,0.46592999999999996
+RM de Curitiba (PR),Renda média baixa,Saúde e cuidados pessoais,0.39390000000000003
+RM de Curitiba (PR),Renda média baixa,Transportes,0.46487
+RM de Curitiba (PR),Renda média baixa,Vestuário,0.22549999999999998
+RM de Fortaleza (CE),Renda alta,Alimentação e bebidas,0.50676
+RM de Fortaleza (CE),Renda alta,Artigos de residência,0.02842
+RM de Fortaleza (CE),Renda alta,Comunicação,0.014759999999999997
+RM de Fortaleza (CE),Renda alta,Despesas pessoais,0.57152
+RM de Fortaleza (CE),Renda alta,Educação,0.53958
+RM de Fortaleza (CE),Renda alta,Habitação,0.32591000000000003
+RM de Fortaleza (CE),Renda alta,Saúde e cuidados pessoais,0.59211
+RM de Fortaleza (CE),Renda alta,Transportes,0.3864
+RM de Fortaleza (CE),Renda alta,Vestuário,-0.0066300000000000005
+RM de Fortaleza (CE),Renda baixa,Alimentação e bebidas,0.96408
+RM de Fortaleza (CE),Renda baixa,Artigos de residência,0.041159999999999995
+RM de Fortaleza (CE),Renda baixa,Comunicação,0.0216
+RM de Fortaleza (CE),Renda baixa,Despesas pessoais,0.2432
+RM de Fortaleza (CE),Renda baixa,Educação,0.20102
+RM de Fortaleza (CE),Renda baixa,Habitação,0.5621200000000001
+RM de Fortaleza (CE),Renda baixa,Saúde e cuidados pessoais,0.63342
+RM de Fortaleza (CE),Renda baixa,Transportes,0.2737
+RM de Fortaleza (CE),Renda baixa,Vestuário,-0.00833
+RM de Fortaleza (CE),Renda muito baixa,Alimentação e bebidas,1.0629600000000001
+RM de Fortaleza (CE),Renda muito baixa,Artigos de residência,0.04998
+RM de Fortaleza (CE),Renda muito baixa,Comunicação,0.021240000000000002
+RM de Fortaleza (CE),Renda muito baixa,Despesas pessoais,0.21280000000000002
+RM de Fortaleza (CE),Renda muito baixa,Educação,0.21688999999999997
+RM de Fortaleza (CE),Renda muito baixa,Habitação,0.6069700000000001
+RM de Fortaleza (CE),Renda muito baixa,Saúde e cuidados pessoais,0.6196499999999999
+RM de Fortaleza (CE),Renda muito baixa,Transportes,0.21091000000000001
+RM de Fortaleza (CE),Renda muito baixa,Vestuário,-0.00867
+RM de Fortaleza (CE),Renda média,Alimentação e bebidas,0.75396
+RM de Fortaleza (CE),Renda média,Artigos de residência,0.03234
+RM de Fortaleza (CE),Renda média,Comunicação,0.021240000000000002
+RM de Fortaleza (CE),Renda média,Despesas pessoais,0.29488
+RM de Fortaleza (CE),Renda média,Educação,0.35442999999999997
+RM de Fortaleza (CE),Renda média,Habitação,0.4126200000000001
+RM de Fortaleza (CE),Renda média,Saúde e cuidados pessoais,0.63801
+RM de Fortaleza (CE),Renda média,Transportes,0.3831800000000001
+RM de Fortaleza (CE),Renda média,Vestuário,-0.00782
+RM de Fortaleza (CE),Renda média alta,Alimentação e bebidas,0.6386
+RM de Fortaleza (CE),Renda média alta,Artigos de residência,0.030379999999999997
+RM de Fortaleza (CE),Renda média alta,Comunicação,0.02052
+RM de Fortaleza (CE),Renda média alta,Despesas pessoais,0.37088
+RM de Fortaleza (CE),Renda média alta,Educação,0.3703
+RM de Fortaleza (CE),Renda média alta,Habitação,0.40963
+RM de Fortaleza (CE),Renda média alta,Saúde e cuidados pessoais,0.6471899999999999
+RM de Fortaleza (CE),Renda média alta,Transportes,0.39606
+RM de Fortaleza (CE),Renda média alta,Vestuário,-0.0068000000000000005
+RM de Fortaleza (CE),Renda média baixa,Alimentação e bebidas,0.8981600000000001
+RM de Fortaleza (CE),Renda média baixa,Artigos de residência,0.0392
+RM de Fortaleza (CE),Renda média baixa,Comunicação,0.02412
+RM de Fortaleza (CE),Renda média baixa,Despesas pessoais,0.2432
+RM de Fortaleza (CE),Renda média baixa,Educação,0.24334
+RM de Fortaleza (CE),Renda média baixa,Habitação,0.49933
+RM de Fortaleza (CE),Renda média baixa,Saúde e cuidados pessoais,0.5967
+RM de Fortaleza (CE),Renda média baixa,Transportes,0.32683
+RM de Fortaleza (CE),Renda média baixa,Vestuário,-0.0085
+RM de Porto Alegre (RS),Renda alta,Alimentação e bebidas,0.60762
+RM de Porto Alegre (RS),Renda alta,Artigos de residência,0.03016
+RM de Porto Alegre (RS),Renda alta,Comunicação,0.03935999999999999
+RM de Porto Alegre (RS),Renda alta,Despesas pessoais,0.5245200000000001
+RM de Porto Alegre (RS),Renda alta,Educação,0.50286
+RM de Porto Alegre (RS),Renda alta,Habitação,0.60931
+RM de Porto Alegre (RS),Renda alta,Saúde e cuidados pessoais,0.51471
+RM de Porto Alegre (RS),Renda alta,Transportes,0.04800000000000001
+RM de Porto Alegre (RS),Renda alta,Vestuário,0.09516
+RM de Porto Alegre (RS),Renda baixa,Alimentação e bebidas,1.15596
+RM de Porto Alegre (RS),Renda baixa,Artigos de residência,0.043680000000000004
+RM de Porto Alegre (RS),Renda baixa,Comunicação,0.0576
+RM de Porto Alegre (RS),Renda baixa,Despesas pessoais,0.2232
+RM de Porto Alegre (RS),Renda baixa,Educação,0.18733999999999998
+RM de Porto Alegre (RS),Renda baixa,Habitação,1.05092
+RM de Porto Alegre (RS),Renda baixa,Saúde e cuidados pessoais,0.55062
+RM de Porto Alegre (RS),Renda baixa,Transportes,0.034
+RM de Porto Alegre (RS),Renda baixa,Vestuário,0.11956000000000001
+RM de Porto Alegre (RS),Renda muito baixa,Alimentação e bebidas,1.27452
+RM de Porto Alegre (RS),Renda muito baixa,Artigos de residência,0.05304
+RM de Porto Alegre (RS),Renda muito baixa,Comunicação,0.056639999999999996
+RM de Porto Alegre (RS),Renda muito baixa,Despesas pessoais,0.1953
+RM de Porto Alegre (RS),Renda muito baixa,Educação,0.20212999999999998
+RM de Porto Alegre (RS),Renda muito baixa,Habitação,1.13477
+RM de Porto Alegre (RS),Renda muito baixa,Saúde e cuidados pessoais,0.5386500000000001
+RM de Porto Alegre (RS),Renda muito baixa,Transportes,0.0262
+RM de Porto Alegre (RS),Renda muito baixa,Vestuário,0.12444
+RM de Porto Alegre (RS),Renda média,Alimentação e bebidas,0.9040200000000002
+RM de Porto Alegre (RS),Renda média,Artigos de residência,0.034319999999999996
+RM de Porto Alegre (RS),Renda média,Comunicação,0.056639999999999996
+RM de Porto Alegre (RS),Renda média,Despesas pessoais,0.27063
+RM de Porto Alegre (RS),Renda média,Educação,0.33031
+RM de Porto Alegre (RS),Renda média,Habitação,0.77142
+RM de Porto Alegre (RS),Renda média,Saúde e cuidados pessoais,0.55461
+RM de Porto Alegre (RS),Renda média,Transportes,0.0476
+RM de Porto Alegre (RS),Renda média,Vestuário,0.11223999999999998
+RM de Porto Alegre (RS),Renda média alta,Alimentação e bebidas,0.7657
+RM de Porto Alegre (RS),Renda média alta,Artigos de residência,0.032240000000000005
+RM de Porto Alegre (RS),Renda média alta,Comunicação,0.05472
+RM de Porto Alegre (RS),Renda média alta,Despesas pessoais,0.34037999999999996
+RM de Porto Alegre (RS),Renda média alta,Educação,0.34509999999999996
+RM de Porto Alegre (RS),Renda média alta,Habitação,0.76583
+RM de Porto Alegre (RS),Renda média alta,Saúde e cuidados pessoais,0.56259
+RM de Porto Alegre (RS),Renda média alta,Transportes,0.04920000000000001
+RM de Porto Alegre (RS),Renda média alta,Vestuário,0.09759999999999999
+RM de Porto Alegre (RS),Renda média baixa,Alimentação e bebidas,1.07692
+RM de Porto Alegre (RS),Renda média baixa,Artigos de residência,0.0416
+RM de Porto Alegre (RS),Renda média baixa,Comunicação,0.06431999999999999
+RM de Porto Alegre (RS),Renda média baixa,Despesas pessoais,0.2232
+RM de Porto Alegre (RS),Renda média baixa,Educação,0.22677999999999998
+RM de Porto Alegre (RS),Renda média baixa,Habitação,0.93353
+RM de Porto Alegre (RS),Renda média baixa,Saúde e cuidados pessoais,0.5187
+RM de Porto Alegre (RS),Renda média baixa,Transportes,0.040600000000000004
+RM de Porto Alegre (RS),Renda média baixa,Vestuário,0.122
+RM de Recife (PE),Renda alta,Alimentação e bebidas,0.40344
+RM de Recife (PE),Renda alta,Artigos de residência,-0.01363
+RM de Recife (PE),Renda alta,Comunicação,0.023779999999999996
+RM de Recife (PE),Renda alta,Despesas pessoais,0.32712
+RM de Recife (PE),Renda alta,Educação,0.5253
+RM de Recife (PE),Renda alta,Habitação,0.47197
+RM de Recife (PE),Renda alta,Saúde e cuidados pessoais,0.28251000000000004
+RM de Recife (PE),Renda alta,Transportes,1.0008
+RM de Recife (PE),Renda alta,Vestuário,0.033929999999999995
+RM de Recife (PE),Renda baixa,Alimentação e bebidas,0.76752
+RM de Recife (PE),Renda baixa,Artigos de residência,-0.01974
+RM de Recife (PE),Renda baixa,Comunicação,0.0348
+RM de Recife (PE),Renda baixa,Despesas pessoais,0.1392
+RM de Recife (PE),Renda baixa,Educação,0.1957
+RM de Recife (PE),Renda baixa,Habitação,0.8140400000000001
+RM de Recife (PE),Renda baixa,Saúde e cuidados pessoais,0.30222
+RM de Recife (PE),Renda baixa,Transportes,0.7089
+RM de Recife (PE),Renda baixa,Vestuário,0.04263
+RM de Recife (PE),Renda muito baixa,Alimentação e bebidas,0.84624
+RM de Recife (PE),Renda muito baixa,Artigos de residência,-0.023969999999999998
+RM de Recife (PE),Renda muito baixa,Comunicação,0.03422
+RM de Recife (PE),Renda muito baixa,Despesas pessoais,0.12179999999999999
+RM de Recife (PE),Renda muito baixa,Educação,0.21114999999999998
+RM de Recife (PE),Renda muito baixa,Habitação,0.87899
+RM de Recife (PE),Renda muito baixa,Saúde e cuidados pessoais,0.29564999999999997
+RM de Recife (PE),Renda muito baixa,Transportes,0.5462699999999999
+RM de Recife (PE),Renda muito baixa,Vestuário,0.04436999999999999
+RM de Recife (PE),Renda média,Alimentação e bebidas,0.60024
+RM de Recife (PE),Renda média,Artigos de residência,-0.01551
+RM de Recife (PE),Renda média,Comunicação,0.03422
+RM de Recife (PE),Renda média,Despesas pessoais,0.16878
+RM de Recife (PE),Renda média,Educação,0.34505
+RM de Recife (PE),Renda média,Habitação,0.5975400000000001
+RM de Recife (PE),Renda média,Saúde e cuidados pessoais,0.30441
+RM de Recife (PE),Renda média,Transportes,0.9924599999999999
+RM de Recife (PE),Renda média,Vestuário,0.04002
+RM de Recife (PE),Renda média alta,Alimentação e bebidas,0.5084
+RM de Recife (PE),Renda média alta,Artigos de residência,-0.014569999999999998
+RM de Recife (PE),Renda média alta,Comunicação,0.03306
+RM de Recife (PE),Renda média alta,Despesas pessoais,0.21227999999999997
+RM de Recife (PE),Renda média alta,Educação,0.36050000000000004
+RM de Recife (PE),Renda média alta,Habitação,0.59321
+RM de Recife (PE),Renda média alta,Saúde e cuidados pessoais,0.30878999999999995
+RM de Recife (PE),Renda média alta,Transportes,1.0258200000000002
+RM de Recife (PE),Renda média alta,Vestuário,0.0348
+RM de Recife (PE),Renda média baixa,Alimentação e bebidas,0.71504
+RM de Recife (PE),Renda média baixa,Artigos de residência,-0.018799999999999997
+RM de Recife (PE),Renda média baixa,Comunicação,0.03886
+RM de Recife (PE),Renda média baixa,Despesas pessoais,0.1392
+RM de Recife (PE),Renda média baixa,Educação,0.2369
+RM de Recife (PE),Renda média baixa,Habitação,0.7231099999999999
+RM de Recife (PE),Renda média baixa,Saúde e cuidados pessoais,0.2847
+RM de Recife (PE),Renda média baixa,Transportes,0.84651
+RM de Recife (PE),Renda média baixa,Vestuário,0.0435
+RM de Salvador (BA),Renda alta,Alimentação e bebidas,0.59163
+RM de Salvador (BA),Renda alta,Artigos de residência,-0.013340000000000001
+RM de Salvador (BA),Renda alta,Comunicação,0.07175
+RM de Salvador (BA),Renda alta,Despesas pessoais,0.53768
+RM de Salvador (BA),Renda alta,Educação,0.52632
+RM de Salvador (BA),Renda alta,Habitação,0.36406
+RM de Salvador (BA),Renda alta,Saúde e cuidados pessoais,0.42827999999999994
+RM de Salvador (BA),Renda alta,Transportes,0.25920000000000004
+RM de Salvador (BA),Renda alta,Vestuário,0.058499999999999996
+RM de Salvador (BA),Renda baixa,Alimentação e bebidas,1.12554
+RM de Salvador (BA),Renda baixa,Artigos de residência,-0.01932
+RM de Salvador (BA),Renda baixa,Comunicação,0.105
+RM de Salvador (BA),Renda baixa,Despesas pessoais,0.2288
+RM de Salvador (BA),Renda baixa,Educação,0.19608
+RM de Salvador (BA),Renda baixa,Habitação,0.62792
+RM de Salvador (BA),Renda baixa,Saúde e cuidados pessoais,0.45816
+RM de Salvador (BA),Renda baixa,Transportes,0.18359999999999999
+RM de Salvador (BA),Renda baixa,Vestuário,0.07350000000000001
+RM de Salvador (BA),Renda muito baixa,Alimentação e bebidas,1.24098
+RM de Salvador (BA),Renda muito baixa,Artigos de residência,-0.02346
+RM de Salvador (BA),Renda muito baixa,Comunicação,0.10325000000000001
+RM de Salvador (BA),Renda muito baixa,Despesas pessoais,0.2002
+RM de Salvador (BA),Renda muito baixa,Educação,0.21156
+RM de Salvador (BA),Renda muito baixa,Habitação,0.67802
+RM de Salvador (BA),Renda muito baixa,Saúde e cuidados pessoais,0.4482
+RM de Salvador (BA),Renda muito baixa,Transportes,0.14148
+RM de Salvador (BA),Renda muito baixa,Vestuário,0.0765
+RM de Salvador (BA),Renda média,Alimentação e bebidas,0.88023
+RM de Salvador (BA),Renda média,Artigos de residência,-0.01518
+RM de Salvador (BA),Renda média,Comunicação,0.10325000000000001
+RM de Salvador (BA),Renda média,Despesas pessoais,0.27742
+RM de Salvador (BA),Renda média,Educação,0.34572
+RM de Salvador (BA),Renda média,Habitação,0.46092
+RM de Salvador (BA),Renda média,Saúde e cuidados pessoais,0.46147999999999995
+RM de Salvador (BA),Renda média,Transportes,0.25704000000000005
+RM de Salvador (BA),Renda média,Vestuário,0.06899999999999999
+RM de Salvador (BA),Renda média alta,Alimentação e bebidas,0.7455499999999999
+RM de Salvador (BA),Renda média alta,Artigos de residência,-0.014260000000000002
+RM de Salvador (BA),Renda média alta,Comunicação,0.09974999999999999
+RM de Salvador (BA),Renda média alta,Despesas pessoais,0.34891999999999995
+RM de Salvador (BA),Renda média alta,Educação,0.3612
+RM de Salvador (BA),Renda média alta,Habitação,0.45757999999999993
+RM de Salvador (BA),Renda média alta,Saúde e cuidados pessoais,0.46812
+RM de Salvador (BA),Renda média alta,Transportes,0.26568
+RM de Salvador (BA),Renda média alta,Vestuário,0.06
+RM de Salvador (BA),Renda média baixa,Alimentação e bebidas,1.0485799999999998
+RM de Salvador (BA),Renda média baixa,Artigos de residência,-0.0184
+RM de Salvador (BA),Renda média baixa,Comunicação,0.11725
+RM de Salvador (BA),Renda média baixa,Despesas pessoais,0.2288
+RM de Salvador (BA),Renda média baixa,Educação,0.23735999999999996
+RM de Salvador (BA),Renda média baixa,Habitação,0.5577799999999999
+RM de Salvador (BA),Renda média baixa,Saúde e cuidados pessoais,0.4316
+RM de Salvador (BA),Renda média baixa,Transportes,0.21924000000000002
+RM de Salvador (BA),Renda média baixa,Vestuário,0.075
+RM de São Paulo (SP),Renda alta,Alimentação e bebidas,0.46371
+RM de São Paulo (SP),Renda alta,Artigos de residência,0.01276
+RM de São Paulo (SP),Renda alta,Comunicação,0.04141
+RM de São Paulo (SP),Renda alta,Despesas pessoais,0.46624000000000004
+RM de São Paulo (SP),Renda alta,Educação,0.53142
+RM de São Paulo (SP),Renda alta,Habitação,0.35425000000000006
+RM de São Paulo (SP),Renda alta,Saúde e cuidados pessoais,0.44376
+RM de São Paulo (SP),Renda alta,Transportes,0.5256000000000001
+RM de São Paulo (SP),Renda alta,Vestuário,0.11075999999999998
+RM de São Paulo (SP),Renda baixa,Alimentação e bebidas,0.8821799999999999
+RM de São Paulo (SP),Renda baixa,Artigos de residência,0.01848
+RM de São Paulo (SP),Renda baixa,Comunicação,0.06060000000000001
+RM de São Paulo (SP),Renda baixa,Despesas pessoais,0.1984
+RM de São Paulo (SP),Renda baixa,Educação,0.19798
+RM de São Paulo (SP),Renda baixa,Habitação,0.611
+RM de São Paulo (SP),Renda baixa,Saúde e cuidados pessoais,0.47472000000000003
+RM de São Paulo (SP),Renda baixa,Transportes,0.37229999999999996
+RM de São Paulo (SP),Renda baixa,Vestuário,0.13916
+RM de São Paulo (SP),Renda muito baixa,Alimentação e bebidas,0.9726600000000001
+RM de São Paulo (SP),Renda muito baixa,Artigos de residência,0.022439999999999998
+RM de São Paulo (SP),Renda muito baixa,Comunicação,0.059590000000000004
+RM de São Paulo (SP),Renda muito baixa,Despesas pessoais,0.1736
+RM de São Paulo (SP),Renda muito baixa,Educação,0.21360999999999997
+RM de São Paulo (SP),Renda muito baixa,Habitação,0.6597500000000001
+RM de São Paulo (SP),Renda muito baixa,Saúde e cuidados pessoais,0.4644
+RM de São Paulo (SP),Renda muito baixa,Transportes,0.28689
+RM de São Paulo (SP),Renda muito baixa,Vestuário,0.14483999999999997
+RM de São Paulo (SP),Renda média,Alimentação e bebidas,0.68991
+RM de São Paulo (SP),Renda média,Artigos de residência,0.01452
+RM de São Paulo (SP),Renda média,Comunicação,0.059590000000000004
+RM de São Paulo (SP),Renda média,Despesas pessoais,0.24055999999999997
+RM de São Paulo (SP),Renda média,Educação,0.34907000000000005
+RM de São Paulo (SP),Renda média,Habitação,0.4485
+RM de São Paulo (SP),Renda média,Saúde e cuidados pessoais,0.47816000000000003
+RM de São Paulo (SP),Renda média,Transportes,0.52122
+RM de São Paulo (SP),Renda média,Vestuário,0.13063999999999998
+RM de São Paulo (SP),Renda média alta,Alimentação e bebidas,0.58435
+RM de São Paulo (SP),Renda média alta,Artigos de residência,0.013640000000000001
+RM de São Paulo (SP),Renda média alta,Comunicação,0.05757
+RM de São Paulo (SP),Renda média alta,Despesas pessoais,0.30255999999999994
+RM de São Paulo (SP),Renda média alta,Educação,0.36469999999999997
+RM de São Paulo (SP),Renda média alta,Habitação,0.44525
+RM de São Paulo (SP),Renda média alta,Saúde e cuidados pessoais,0.48503999999999997
+RM de São Paulo (SP),Renda média alta,Transportes,0.53874
+RM de São Paulo (SP),Renda média alta,Vestuário,0.11359999999999999
+RM de São Paulo (SP),Renda média baixa,Alimentação e bebidas,0.82186
+RM de São Paulo (SP),Renda média baixa,Artigos de residência,0.0176
+RM de São Paulo (SP),Renda média baixa,Comunicação,0.06767000000000001
+RM de São Paulo (SP),Renda média baixa,Despesas pessoais,0.1984
+RM de São Paulo (SP),Renda média baixa,Educação,0.23965999999999998
+RM de São Paulo (SP),Renda média baixa,Habitação,0.54275
+RM de São Paulo (SP),Renda média baixa,Saúde e cuidados pessoais,0.4472
+RM de São Paulo (SP),Renda média baixa,Transportes,0.44457
+RM de São Paulo (SP),Renda média baixa,Vestuário,0.142
+RM do Rio de Janeiro (RJ),Renda alta,Alimentação e bebidas,0.33332999999999996
+RM do Rio de Janeiro (RJ),Renda alta,Artigos de residência,0.01508
+RM do Rio de Janeiro (RJ),Renda alta,Comunicação,0.01845
+RM do Rio de Janeiro (RJ),Renda alta,Despesas pessoais,0.41736000000000006
+RM do Rio de Janeiro (RJ),Renda alta,Educação,0.54876
+RM do Rio de Janeiro (RJ),Renda alta,Habitação,0.28122
+RM do Rio de Janeiro (RJ),Renda alta,Saúde e cuidados pessoais,0.44247
+RM do Rio de Janeiro (RJ),Renda alta,Transportes,0.3528
+RM do Rio de Janeiro (RJ),Renda alta,Vestuário,0.12324
+RM do Rio de Janeiro (RJ),Renda baixa,Alimentação e bebidas,0.6341399999999999
+RM do Rio de Janeiro (RJ),Renda baixa,Artigos de residência,0.021840000000000002
+RM do Rio de Janeiro (RJ),Renda baixa,Comunicação,0.027000000000000003
+RM do Rio de Janeiro (RJ),Renda baixa,Despesas pessoais,0.1776
+RM do Rio de Janeiro (RJ),Renda baixa,Educação,0.20443999999999998
+RM do Rio de Janeiro (RJ),Renda baixa,Habitação,0.48504
+RM do Rio de Janeiro (RJ),Renda baixa,Saúde e cuidados pessoais,0.47334000000000004
+RM do Rio de Janeiro (RJ),Renda baixa,Transportes,0.24989999999999998
+RM do Rio de Janeiro (RJ),Renda baixa,Vestuário,0.15484
+RM do Rio de Janeiro (RJ),Renda muito baixa,Alimentação e bebidas,0.69918
+RM do Rio de Janeiro (RJ),Renda muito baixa,Artigos de residência,0.02652
+RM do Rio de Janeiro (RJ),Renda muito baixa,Comunicação,0.026550000000000004
+RM do Rio de Janeiro (RJ),Renda muito baixa,Despesas pessoais,0.1554
+RM do Rio de Janeiro (RJ),Renda muito baixa,Educação,0.22057999999999997
+RM do Rio de Janeiro (RJ),Renda muito baixa,Habitação,0.52374
+RM do Rio de Janeiro (RJ),Renda muito baixa,Saúde e cuidados pessoais,0.46305
+RM do Rio de Janeiro (RJ),Renda muito baixa,Transportes,0.19257
+RM do Rio de Janeiro (RJ),Renda muito baixa,Vestuário,0.16116
+RM do Rio de Janeiro (RJ),Renda média,Alimentação e bebidas,0.49593000000000004
+RM do Rio de Janeiro (RJ),Renda média,Artigos de residência,0.017159999999999998
+RM do Rio de Janeiro (RJ),Renda média,Comunicação,0.026550000000000004
+RM do Rio de Janeiro (RJ),Renda média,Despesas pessoais,0.21533999999999998
+RM do Rio de Janeiro (RJ),Renda média,Educação,0.36046
+RM do Rio de Janeiro (RJ),Renda média,Habitação,0.3560400000000001
+RM do Rio de Janeiro (RJ),Renda média,Saúde e cuidados pessoais,0.4767700000000001
+RM do Rio de Janeiro (RJ),Renda média,Transportes,0.34985999999999995
+RM do Rio de Janeiro (RJ),Renda média,Vestuário,0.14536
+RM do Rio de Janeiro (RJ),Renda média alta,Alimentação e bebidas,0.42005000000000003
+RM do Rio de Janeiro (RJ),Renda média alta,Artigos de residência,0.016120000000000002
+RM do Rio de Janeiro (RJ),Renda média alta,Comunicação,0.02565
+RM do Rio de Janeiro (RJ),Renda média alta,Despesas pessoais,0.27083999999999997
+RM do Rio de Janeiro (RJ),Renda média alta,Educação,0.3766
+RM do Rio de Janeiro (RJ),Renda média alta,Habitação,0.35345999999999994
+RM do Rio de Janeiro (RJ),Renda média alta,Saúde e cuidados pessoais,0.48363
+RM do Rio de Janeiro (RJ),Renda média alta,Transportes,0.36162
+RM do Rio de Janeiro (RJ),Renda média alta,Vestuário,0.1264
+RM do Rio de Janeiro (RJ),Renda média baixa,Alimentação e bebidas,0.5907800000000001
+RM do Rio de Janeiro (RJ),Renda média baixa,Artigos de residência,0.0208
+RM do Rio de Janeiro (RJ),Renda média baixa,Comunicação,0.03015
+RM do Rio de Janeiro (RJ),Renda média baixa,Despesas pessoais,0.1776
+RM do Rio de Janeiro (RJ),Renda média baixa,Educação,0.24747999999999998
+RM do Rio de Janeiro (RJ),Renda média baixa,Habitação,0.43085999999999997
+RM do Rio de Janeiro (RJ),Renda média baixa,Saúde e cuidados pessoais,0.4459
+RM do Rio de Janeiro (RJ),Renda média baixa,Transportes,0.29841
+RM do Rio de Janeiro (RJ),Renda média baixa,Vestuário,0.158
