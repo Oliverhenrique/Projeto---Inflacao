@@ -5,7 +5,10 @@
 
 ###
 
-<p align="left">Este projeto analisa como a inflação acumulada em 2025 impactou o orçamento das famílias de diferentes faixas de renda em regiões metropolitanas do Brasil considerando os grupos de consumo definidos na pesquisa do IPCA (índice de Preço ao Consumidor Amplo) realizada pelo IBGE (Instituto Brasileiro de Geografia e Estatística).<br><br>Período analisado: Janeiro - Junho 2025<br>Unidades de análise: Região metropolitana x Faixa de renda x Grupo de consumo<br><br>🚀 Acesse a aplicação: Você pode interagir com a análise completa na aplicação em Streamlit:</p>
+<p align="left">Este projeto analisa como a inflação acumulada em 2025 impactou o orçamento das famílias de diferentes faixas de renda em regiões metropolitanas do Brasil considerando os grupos de consumo definidos na pesquisa do IPCA (índice de Preço ao Consumidor Amplo) realizada pelo IBGE (Instituto Brasileiro de Geografia e Estatística).<br><br>Período analisado: Janeiro - Junho 2025<br>Unidades de análise: Região metropolitana x Faixa de renda x Grupo de consumo<br><br>📲 Acesse a aplicação: Você pode interagir com a análise completa na aplicação em Streamlit:</p> 
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://projeto-inflacao-ujrflpn5vavogxyh3k8gqg.streamlit.app/)
+
 
 ###
 
