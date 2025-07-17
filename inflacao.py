@@ -483,7 +483,7 @@ elif selecao == "**A inflação por grupo de consumo**":
         fig.update_traces(texttemplate='%{text:.2f}%', textposition='outside')
         fig.update_layout(
             title='Inflação acumulada para o grupo Alimentação e bebidas',
-            xaxis_title='Inflação acumulada (%) de jan/2025 a maio/2025',
+            xaxis_title='Inflação acumulada (%)',
             yaxis_title='Região',
             yaxis={'categoryorder':'array', 'categoryarray': grupo_1['regiao']},
             showlegend=False)
